@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+body {
+  background: -webkit-linear-gradient(to right, #514A9D, #24C6DC); 
+  background: linear-gradient(to right, #514A9D, #24C6DC);  
+}
+
+.file{
+  margin-top: 20px;
+  box-shadow: 2px;
+}
